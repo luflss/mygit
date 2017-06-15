@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gradient_dark_purple.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\gradient_dark_purple.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ratingbar_frg.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\ratingbar_frg.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\progress.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_zwei.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\progress_zwei.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gradient_orange.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\gradient_orange.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\handle.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\handle.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gradient_orange_revert.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\gradient_orange_revert.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_ratingbar.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\progress_ratingbar.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gradient_reflect.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\gradient_reflect.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\arrow.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\arrow.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\progress_dotted.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\progress_dotted.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\purple_entry_color.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\purple_entry_color.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gradient_light_purple.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\gradient_light_purple.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\light_bg.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\light_bg.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\purple_entry_bg.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-mdpi\\purple_entry_bg.xml"
+    }
+]

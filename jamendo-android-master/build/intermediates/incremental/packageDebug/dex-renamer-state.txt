@@ -1,0 +1,7 @@
+#Thu Jun 15 09:17:33 CST 2017
+base.0=G\:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a7b3e70ae5a9c710d0f6b9db5914586a676989b9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_671fe07b340217f8774f1ae80349146d76faf18f\\classes.dex
+base.1=G\:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_671fe07b340217f8774f1ae80349146d76faf18f
+file.0=G\:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a7b3e70ae5a9c710d0f6b9db5914586a676989b9\\classes.dex

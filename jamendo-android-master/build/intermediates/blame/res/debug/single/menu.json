@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\menu\\playlist.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\menu\\playlist.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\menu\\download_context.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\menu\\download_context.xml"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\menu\\album.xml",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\menu\\album.xml"
+    }
+]

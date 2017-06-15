@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_download.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\list_download.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\teleca_logo_splash.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\teleca_logo_splash.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\teleca_logo.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\teleca_logo.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drag.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\drag.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_cd.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\list_cd.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_search.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\list_search.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash_jamendo.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\splash_jamendo.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_playlist.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\list_playlist.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tray_handle_normal.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\tray_handle_normal.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tray_handle_selected.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\tray_handle_selected.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ratingbar_frg_gray.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\ratingbar_frg_gray.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_top.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\list_top.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ratingbar_frg_white.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\ratingbar_frg_white.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_radio.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\list_radio.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_notify.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\stat_notify.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cc_loading.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\cc_loading.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tray_handle_pressed.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-hdpi\\tray_handle_pressed.png"
+    }
+]

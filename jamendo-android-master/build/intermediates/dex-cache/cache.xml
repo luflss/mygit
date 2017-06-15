@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\resource\Android\jamendo-android-master\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e27f0cf3f67ed7203f409b90a1cd04f12260df52">
+        <dex dex="G:\resource\Android\jamendo-android-master\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a7b3e70ae5a9c710d0f6b9db5914586a676989b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\resource\Android\jamendo-android-master\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94a4f7c09742b0a1cb133b00765c93e8824f555f">
+        <dex dex="G:\resource\Android\jamendo-android-master\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_671fe07b340217f8774f1ae80349146d76faf18f\classes.dex" />
+    </item>
+
+</items>

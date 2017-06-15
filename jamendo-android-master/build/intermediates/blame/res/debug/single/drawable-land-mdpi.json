@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\player_next_light.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\player_next_light.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\player_prev_light.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\player_prev_light.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\tray_handle_selected.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\tray_handle_selected.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\tray_handle_normal.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\tray_handle_normal.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\player_prev_list_light.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\player_prev_list_light.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\tray_line_normal.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\tray_line_normal.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\tray_line_pressed.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\tray_line_pressed.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\tray_handle_pressed.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\tray_handle_pressed.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\player_stop_light.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\player_stop_light.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\player_pause_light.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\player_pause_light.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\player_play_light.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\player_play_light.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\tray_line_selected.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\tray_line_selected.png"
+    },
+    {
+        "merged": "G:\\resource\\Android\\jamendo-android-master\\build\\intermediates\\res\\merged\\debug\\drawable-land-mdpi\\drag.png",
+        "source": "G:\\resource\\Android\\jamendo-android-master\\res\\drawable-land-mdpi\\drag.png"
+    }
+]
